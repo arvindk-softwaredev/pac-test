@@ -1,1 +1,1 @@
-console.log("PAC-MultiCluster1")
+console.log("PAC-MultiCluster")
